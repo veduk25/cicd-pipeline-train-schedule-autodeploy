@@ -16,7 +16,6 @@ node {
     version = "16.13.12"
     npmVersion = "6.12.0"
     download = true
-    nodeModulesDir = file("/XXX")
 }
 
 //declare a build task
